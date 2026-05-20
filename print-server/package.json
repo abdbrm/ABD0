@@ -1,0 +1,13 @@
+{
+  "name": "neon-print-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-thermal-printer": "^4.3.3",
+    "socket.io-client": "^4.6.2",
+    "dotenv": "^16.3.1"
+  }
+}
